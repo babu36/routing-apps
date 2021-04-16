@@ -8,8 +8,8 @@ Run these commands
 goto packages/mobileuser 
 
 ### yarn start  
-Runs mobile in development mode
+Runs mobile app in development mode
 
 goto packages/webuser 
 ### yarn start 
- Runs web in development mode
+ Runs web app in development mode
