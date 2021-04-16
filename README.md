@@ -6,10 +6,11 @@ Run these commands
 ### yarn lerna bootstrap
 
 goto packages/mobileuser 
-
+Run
 ### yarn start  
 Runs mobile app in development mode
 
 goto packages/webuser 
+Run
 ### yarn start 
- Runs web app in development mode
+Runs web app in development mode
