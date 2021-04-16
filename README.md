@@ -5,7 +5,7 @@ Run these commands
 ### yarn or yarn install 
 ### yarn lerna bootstrap
 
-goto packages/mobileuser 
+goto packages/mobileuser \
 Run
 ### yarn start  
 Runs mobile app in development mode
